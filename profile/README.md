@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://stellasoft.tech" target="blank"><img width="350" style="padding: 2rem;" src="resources/stellalogo.png" width="100" alt="STELLA Logo" /></a>
+  <a href="https://stellasoft.tech" target="blank"><img width="350" style="padding: 2rem;" src="./resources/stellalogo.png" width="100" alt="STELLA Logo" /></a>
 </p>
 
 <h1 align="center">WELLCOME TO STELLA</h1>
@@ -23,6 +23,6 @@ If you are in need of a team that is ready for challenging challenges, innovativ
 ## <h2 align="center"> Our referances </h2>
 
 <div align="center">
-<a href="" style="display: inline;" target="blank"><img width="150" style="padding: 2rem;" src="resources/elitas-png.png" width="100" alt="ELITAS Logo" /></a>
+<a href="" style="display: inline;" target="blank"><img width="150" style="padding: 2rem;" src="./resources/elitas-png.png" width="100" alt="ELITAS Logo" /></a>
 
 </div>
